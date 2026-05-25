@@ -1,0 +1,8 @@
+{
+    "name": "datahandler-service",
+    "version": "1.0.781",
+    "private": false,
+    "environment": "production",
+    "build_id": 322,
+    "allow_public_access": true
+}
